@@ -3,14 +3,14 @@
 Here You Can Get important Stuffs , this website is on early stages 
 here will be many changes time to time
 
- [Contact on Twitter]
-(https://mobile.twitter.com/Phoenixprisminc)
+ [Contact on Twitter](https://mobile.twitter.com/Phoenixprisminc)
 
-[Contact on Instagram]
-(https://www.instagram.com/phoenixprisminc/)
 
-[Join On whatsapp For Cinephiles discussion only]
-(https://chat.whatsapp.com/GUfSJpZ7xRB8nW0e2rfvrE)
+[Contact on Instagram](https://www.instagram.com/phoenixprisminc/)
+
+
+[Join On whatsapp For Cinephiles discussion only](https://chat.whatsapp.com/GUfSJpZ7xRB8nW0e2rfvrE)
+
 
 You can use the [editor on GitHub](https://github.com/ProfessorRah/helixhacker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
